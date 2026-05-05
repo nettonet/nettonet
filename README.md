@@ -14,9 +14,9 @@ Building robust backend systems and intelligent applications at the intersection
   <img src="https://img.shields.io/badge/Full--Stack_SaaS-45B7D1?style=flat-square&logo=cloud&logoColor=white" alt="Full-Stack SaaS" />
 </p>
 
-- 馃 **AI Integration** 鈥?Building production-ready LLM-powered applications with RAG and agentic workflows
-- 馃敡 **CAD Automation** 鈥?Developing Python tools for parametric design and engineering workflows
-- 馃摎 **Open Source** 鈥?Contributing to the developer ecosystem and sharing knowledge
+- :robot: **AI Integration** ——Building production-ready LLM-powered applications with RAG and agentic workflows
+- :wrench: **CAD Automation** ——Developing Python tools for parametric design and engineering workflows
+- :books: **Open Source** ——Contributing to the developer ecosystem and sharing knowledge
 
 ---
 
