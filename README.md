@@ -1,4 +1,4 @@
-# Hi there, I'm Roque 馃憢
+# Hi there, I'm Roque :wave:
 
 ### Full-Stack Engineer | Python Flask | CAD | AI Vision & LLM
 
