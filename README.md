@@ -61,5 +61,5 @@ Building robust backend systems and intelligent applications at the intersection
 
 ## :open_file_folder: Featured Projects
 
-> Coming soon 鈥?showcasing AI-powered engineering tools and full-stack applications
+> Coming soon ——showcasing AI-powered engineering tools and full-stack applications
 
