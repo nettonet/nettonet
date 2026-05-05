@@ -6,7 +6,7 @@ Building robust backend systems and intelligent applications at the intersection
 
 ---
 
-## 馃幆 2026 Focus Areas
+## :dart: 2026 Focus Areas
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI--Agentic_Development-FF6B35?style=flat-square&logo=robot&logoColor=white" alt="AI Agentic" />
@@ -20,7 +20,7 @@ Building robust backend systems and intelligent applications at the intersection
 
 ---
 
-## 馃洜锔?Tech Stack
+## :hammer_and_wrench:Tech Stack
 
 ### Languages & Frameworks
 <p align="left">
@@ -59,7 +59,7 @@ Building robust backend systems and intelligent applications at the intersection
 
 ---
 
-## 馃搨 Featured Projects
+## :open_file_folder: Featured Projects
 
 > Coming soon 鈥?showcasing AI-powered engineering tools and full-stack applications
 
